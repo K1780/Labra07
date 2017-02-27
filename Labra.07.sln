@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labra.07", "Labra.07\Labra.07.csproj", "{B9E96D81-A686-45B9-8D64-BCCED0C14426}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht01", "Labra.07\Teht01.csproj", "{B9E96D81-A686-45B9-8D64-BCCED0C14426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht02", "Teht02\Teht02.csproj", "{B779CAD0-7AED-4B3C-9E68-37C480C009DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teht03", "Teht03\Teht03.csproj", "{213D8D63-79F1-4E22-90DE-05A01A8802D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{B9E96D81-A686-45B9-8D64-BCCED0C14426}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9E96D81-A686-45B9-8D64-BCCED0C14426}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9E96D81-A686-45B9-8D64-BCCED0C14426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B779CAD0-7AED-4B3C-9E68-37C480C009DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B779CAD0-7AED-4B3C-9E68-37C480C009DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B779CAD0-7AED-4B3C-9E68-37C480C009DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B779CAD0-7AED-4B3C-9E68-37C480C009DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{213D8D63-79F1-4E22-90DE-05A01A8802D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213D8D63-79F1-4E22-90DE-05A01A8802D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213D8D63-79F1-4E22-90DE-05A01A8802D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213D8D63-79F1-4E22-90DE-05A01A8802D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
